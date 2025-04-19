@@ -56,7 +56,7 @@ The dataset consists of **1,000,000 synthetic trade orders** with the following 
 
 ## Author
 
-**Ahmet Güçlü**  
+**Ahmet GUCLU**  
 Senior Business Analyst  
 ahmetguclu.dev | [LinkedIn Profile] | [GitHub Profile]
 
