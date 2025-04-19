@@ -4,6 +4,12 @@ This project simulates a real-world trade order validation pipeline inspired by 
 It demonstrates how a Business Analyst can structure data validation and classification logic using Python in a scalable and efficient way.
 
 ---
+## How It Works
+
+1. **Data Generation**: Creates 1M synthetic institutional trade orders.
+2. **Validation Checks**: Verifies execution integrity and field-level accuracy using `np.where()` and `chunking`.
+3. **Flagging Logic**: Identifies execution errors such as invalid quantities or unknown statuses.
+4. **Outputs**: Generates clear CSV reports to support QA or regulatory review.
 
 ## Project Objectives
 
