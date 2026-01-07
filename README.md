@@ -1,6 +1,6 @@
-# Trade Order Validation & Classification (BNP Paribas Simulation)
+# Trade Order Validation & Classification 
 
-This project simulates a real-world trade order validation pipeline inspired by financial institutions like **BNP Paribas**.  
+This project simulates a real-world trade order validation pipeline inspired by financial institutions. 
 It demonstrates how a Business Analyst can structure data validation and classification logic using Python in a scalable and efficient way.
 
 ---
@@ -57,7 +57,7 @@ The dataset consists of **1,000,000 synthetic trade orders** with the following 
 ## Author
 
 **Ahmet GUCLU**  
-Senior Business Analyst  
+Business /Data Analyst  
 ahmetguclu.dev | [LinkedIn Profile] | [GitHub Profile]
 
 ---
